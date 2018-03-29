@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DPED</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Banner_ad2">ca-app-pub-2047318075225822/3943920923</string>
+    <string name="Banner_ad">ca-app-pub-8600832328042809/1269726908</string>
+
+</resources>
